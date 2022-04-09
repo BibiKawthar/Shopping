@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"add_inventory.h": "c",
+			"view_rent.h": "c",
+			"delete_rent.h": "c"
+		}
+	}
+}
